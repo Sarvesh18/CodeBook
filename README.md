@@ -1,13 +1,18 @@
-Compiler Design - Lipschutz
----------------------------
+DAA-Coreman
+-----------
+DS-Lipschutz
+------------
+Compiler Design - Ullman
+------------------------
 >0. Count No. of Vowels & Consonant
 >1. Count No. of Positive Integer, Negative Integer, Positive Float, Negative Float
 >2. Count No. of Printf, Scanf
 >3. Count No. of Int, Float, Char
 >4. Count No. of Arthimetic Expression
 >5. Count No. of If Else
+<br>
 >**6. NFA 2 DFA without Epsilon Move**
->![NFA2DFA](https://github.com/Sarvesh18/CodeBook/blob/master/AICTE%20(SmartIndiaHackathon17%20%26%20Technomentum17)/Technomentum17.jpg)
+>![NFA2DFA](https://github.com/Sarvesh18/CodeBook/blob/master/CD-Ullman/NFA2DFA.jpg)
 ><br>
 ><hr>
 Get IN Touch 
