@@ -12,7 +12,7 @@ Compiler Design - Ullman
 >5. Count No. of If Else
 >6. NFA 2 DFA without Epsilon Move
 ><br>
->![NFA2DFA](https://github.com/Sarvesh18/CodeBook/blob/master/CD-Ullman/NFA2DFA.jpg)
+>![NFA2DFA](https://github.com/Sarvesh18/CodeBook/blob/master/CD-Ullman/NFA2DFA.jpeg)
 ><br>
 ><hr>
 Get IN Touch 
