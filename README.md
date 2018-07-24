@@ -11,10 +11,10 @@ Compiler Design - Ullman
 >4. Count No. of Arthimetic Expression
 >5. Count No. of If Else
 >6. NFA 2 DFA without Epsilon Move
-<br>
-![NFA2DFA](https://github.com/Sarvesh18/CodeBook/blob/master/CD-Ullman/NFA2DFA.jpg)
-<br>
-<hr>
+><br>
+>![NFA2DFA](https://github.com/Sarvesh18/CodeBook/blob/master/CD-Ullman/NFA2DFA.jpg)
+><br>
+><hr>
 Get IN Touch 
 ------------
 >Web : https://sarvesh18.github.io <br>
