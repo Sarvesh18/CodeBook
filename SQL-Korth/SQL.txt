@@ -1,0 +1,50 @@
+SQL
+---
+https://www.youtube.com/playlist?list=PLV8vIYTIdSnYZjtUDQ5-9siMc2d8YeoB4
+***********************************************************************************************************************************************************************
+Postgres
+--------
+http://127.0.0.1/adminer-4.2.5.php
+5432
+postgres
+749382
+test
+
+\l
+\c test /*Connect*/
+\q	/*Disconnect*/
+
+create database test;
+drop databse test;
+
+MySql
+-----
+http://127.0.0.1/phpmyadmin
+3306
+root
+
+test
+
+ORACLE
+------
+http://127.0.0.1:8080/apex/f?p=4950:1:2257875125059511
+1521:xe
+ORACLE
+749382
+testc
+
+connect SYSTEM/749382
+SELECT SYSDATE FROM DUAL;
+
+MongoDB
+-------
+http://
+27017
+
+
+test
+
+mongod
+mongo
+db 
+***********************************************************************************************************************************************************************
